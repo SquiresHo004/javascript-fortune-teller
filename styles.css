@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(194, 85, 206);
+    color: white;
+}
+
+#myFortune {
+    border: 2px black solid;
+    padding: 10px;
+    background-color: rgb(249, 95, 219);
+}
